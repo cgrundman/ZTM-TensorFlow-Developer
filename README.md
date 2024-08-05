@@ -1,4 +1,9 @@
-# ZTM-TensorFlow-Developer
+# Zero-To-Mastery: TensorFlow Developer Course
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow" heigth="300"/>
+  </a>
+</p>
 
 ## 0. [TensorFlow Fundamentals](https://github.com/cgrundman/ZTM-TensorFlow-Developer/blob/main/00_tensorflow_fundamentals.ipynb)
 ## 1. [Neural Network Regression](https://github.com/cgrundman/ZTM-TensorFlow-Developer/blob/main/01_neural_network_regression_with_tensorflow.ipynb)
