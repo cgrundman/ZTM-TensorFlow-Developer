@@ -6,7 +6,13 @@
 </p>
 
 ## 0. [TensorFlow Fundamentals](https://github.com/cgrundman/ZTM-TensorFlow-Developer/blob/main/00_tensorflow_fundamentals.ipynb)
+
+Introduction to Tensors
+
 ## 1. [Neural Network Regression](https://github.com/cgrundman/ZTM-TensorFlow-Developer/blob/main/01_neural_network_regression_with_tensorflow.ipynb)
+
+
+
 ## 2. [Neural Network Classification](https://github.com/cgrundman/ZTM-TensorFlow-Developer/blob/main/02_neural_network_classification_with_tensorflow.ipynb)
 ## 3. [Introduction to Computer Vision](https://github.com/cgrundman/ZTM-TensorFlow-Developer/blob/main/03_introduction_to_computer_vision_in_tensorflow_.ipynb)
 ## 4. [Transfer Learning Part 1: Feature Extraction](https://github.com/cgrundman/ZTM-TensorFlow-Developer/blob/main/04_transfer_learning_part_1_feature_extraction.ipynb)
